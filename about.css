@@ -1,0 +1,23 @@
+html body{
+    box-sizing: border-box;
+    width: 100%;
+    margin: 2% ;
+}
+.header-container{
+    width: 100%;
+    margin: 2%;
+    background-color: antiquewhite;
+}
+li a{
+    text-decoration: none;
+}
+img{
+    width: 100%;
+    margin: 2%;
+}
+.content{
+    background-color: antiquewhite;
+}
+footer{
+    text-align: center;
+}
